@@ -1,0 +1,12 @@
+.VehicleView {
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+.VehicleView img {
+    display: block;
+    max-width: 100%;
+    
+}
